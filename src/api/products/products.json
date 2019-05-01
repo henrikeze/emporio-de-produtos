@@ -1,0 +1,52 @@
+[
+  {
+    "productId": 1,
+    "productName": "Pá",
+    "productCode": "GDN-0011",
+    "releaseDate": "25",
+    "description": "Pá para cavar terra.",
+    "price": 29.99,
+    "starRating": 3.2,
+    "imageUrl": "http://www.clker.com/cliparts/b/0/3/c/11954351951816540366Machovka_Shovel.svg.hi.png"
+  },
+  {
+    "productId": 2,
+    "productName": "Bola de Praia",
+    "productCode": "GDN-0023",
+    "releaseDate": "56",
+    "description": "Bola inflável para criançar brincarem na praia.",
+    "price": 12.99,
+    "starRating": 4.2,
+    "imageUrl": "http://www.clker.com/cliparts/7/1/0/6/1194986831579486974beach_ball_01.svg.hi.png"
+  },
+  {
+    "productId": 5,
+    "productName": "Martelo",
+    "productCode": "TBX-0048",
+    "releaseDate": "42",
+    "description": "Martelo simples com cabo de madeira.",
+    "price": 9.99,
+    "starRating": 4.8,
+    "imageUrl": "http://www.clker.com/cliparts/c/b/b/e/11954217511527806368hammer_david_benjamin_01.svg.hi.png"
+  },
+  {
+    "productId": 8,
+    "productName": "Serra",
+    "productCode": "TBX-0022",
+    "releaseDate": "15",
+    "description": "Serra de 35cm e aço.",
+    "price": 11.99,
+    "starRating": 3.7,
+    "imageUrl": "http://www.clker.com/cliparts/f/2/9/e/11949850521159759855utensile_sega_architetto_01.svg.hi.png"
+  },
+  {
+    "productId": 10,
+    "productName": "Capacete",
+    "productCode": "GMG-0042",
+    "releaseDate": "19",
+    "description": "Capacete de segurança, ideal para trabalhos pesados.",
+    "price": 29.99,
+    "starRating": 4.6,
+    "imageUrl": "http://www.clker.com/cliparts/q/c/p/P/A/D/hard-hat-hi.png"
+  }
+]
